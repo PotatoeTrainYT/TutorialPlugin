@@ -1,0 +1,8 @@
+name: TutorialPlugin
+description: A Tutorial Plugin for a YT series
+
+main: TutorialPlugin\Main
+version: 1.0.0
+api: [3.0.0-ALPHA11, 3.0.0-ALPHA12]
+
+author: Potatoe
