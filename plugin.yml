@@ -6,3 +6,11 @@ version: 1.0.0
 api: [3.0.0-ALPHA11, 3.0.0-ALPHA12]
 
 author: Potatoe
+
+commands:
+    heal:
+        description: Simple command to heal yourself
+
+permissions:
+    tutorialplugin.heal:
+        default: op
